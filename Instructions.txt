@@ -1,0 +1,7 @@
+#Instructions:-
+1. press "p" to make a play betwen two men and press "s" to stop
+
+2. press "n" to go to the night mood and press "d" for day mood
+
+#Short description:-
+	In the day mood when "p" is pressed, football play will start and will stop when press "s". A car is moving automatically in the both day and night mood. When "n" is pressed, the mood is changed to night mood. In the night mood, when the car comes close to the lampposts, the lampposts will automatically turned on. And turned off when the car passed the lampposts. Press "d" to to return on the day mood. 
